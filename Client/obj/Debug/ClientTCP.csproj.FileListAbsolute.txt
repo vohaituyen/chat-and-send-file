@@ -1,0 +1,70 @@
+E:\S5\LapTrinhMang\BTL\Chat\SGSclient\bin\Debug\SGSclient.exe
+E:\S5\LapTrinhMang\BTL\Chat\SGSclient\bin\Debug\SGSclient.pdb
+E:\S5\LapTrinhMang\BTL\Chat\SGSclient\obj\Debug\ClientTCP.csproj.AssemblyReference.cache
+E:\S5\LapTrinhMang\BTL\Chat\SGSclient\obj\Debug\SGSclient.SGSClient.resources
+E:\S5\LapTrinhMang\BTL\Chat\SGSclient\obj\Debug\SGSclient.LoginForm.resources
+E:\S5\LapTrinhMang\BTL\Chat\SGSclient\obj\Debug\SGSclient.Properties.Resources.resources
+E:\S5\LapTrinhMang\BTL\Chat\SGSclient\obj\Debug\ClientTCP.csproj.GenerateResource.cache
+E:\S5\LapTrinhMang\BTL\Chat\SGSclient\obj\Debug\ClientTCP.csproj.CoreCompileInputs.cache
+E:\S5\LapTrinhMang\BTL\Chat\SGSclient\obj\Debug\SGSclient.exe
+E:\S5\LapTrinhMang\BTL\Chat\SGSclient\obj\Debug\SGSclient.pdb
+E:\S5\LapTrinhMang\BTL\Chat\Client\bin\Debug\SGSclient.exe
+E:\S5\LapTrinhMang\BTL\Chat\Client\bin\Debug\SGSclient.pdb
+E:\S5\LapTrinhMang\BTL\Chat\Client\obj\Debug\ClientTCP.csproj.AssemblyReference.cache
+E:\S5\LapTrinhMang\BTL\Chat\Client\obj\Debug\SGSclient.Properties.Resources.resources
+E:\S5\LapTrinhMang\BTL\Chat\Client\obj\Debug\ClientTCP.csproj.GenerateResource.cache
+E:\S5\LapTrinhMang\BTL\Chat\Client\obj\Debug\ClientTCP.csproj.CoreCompileInputs.cache
+E:\S5\LapTrinhMang\BTL\Chat\Client\obj\Debug\SGSclient.exe
+E:\S5\LapTrinhMang\BTL\Chat\Client\obj\Debug\SGSclient.pdb
+E:\S5\LapTrinhMang\BTL\Chat\Client\obj\Debug\Client.Client.resources
+E:\S5\LapTrinhMang\BTL\Chat\Client\obj\Debug\Client.LoginForm.resources
+E:\S5\LapTrinhMang\BTL\transfer-file\Client\obj\Debug\ClientTCP.csproj.AssemblyReference.cache
+E:\S5\LapTrinhMang\BTL\transfer-file\Client\obj\Debug\Client.Client.resources
+E:\S5\LapTrinhMang\BTL\transfer-file\Client\obj\Debug\Client.LoginForm.resources
+E:\S5\LapTrinhMang\BTL\transfer-file\Client\obj\Debug\SGSclient.Properties.Resources.resources
+E:\S5\LapTrinhMang\BTL\transfer-file\Client\obj\Debug\ClientTCP.csproj.GenerateResource.cache
+E:\S5\LapTrinhMang\BTL\transfer-file\Client\obj\Debug\ClientTCP.csproj.CoreCompileInputs.cache
+E:\S5\LapTrinhMang\BTL\transfer-file\Client\obj\Debug\SGSclient.exe
+E:\S5\LapTrinhMang\BTL\transfer-file\Client\obj\Debug\SGSclient.pdb
+E:\S5\LapTrinhMang\BTL\transfer-file\Client\bin\Debug\SGSclient.exe
+E:\S5\LapTrinhMang\BTL\transfer-file\Client\bin\Debug\SGSclient.pdb
+D:\Recovery\BaiTap\LapTrinhMang\transfer-file -cuoi\transfer-file\Client\bin\Debug\SGSclient.exe
+D:\Recovery\BaiTap\LapTrinhMang\transfer-file -cuoi\transfer-file\Client\bin\Debug\SGSclient.pdb
+D:\Recovery\BaiTap\LapTrinhMang\transfer-file -cuoi\transfer-file\Client\obj\Debug\ClientTCP.csproj.AssemblyReference.cache
+D:\Recovery\BaiTap\LapTrinhMang\transfer-file -cuoi\transfer-file\Client\obj\Debug\Client.Client.resources
+D:\Recovery\BaiTap\LapTrinhMang\transfer-file -cuoi\transfer-file\Client\obj\Debug\Client.LoginForm.resources
+D:\Recovery\BaiTap\LapTrinhMang\transfer-file -cuoi\transfer-file\Client\obj\Debug\SGSclient.Properties.Resources.resources
+D:\Recovery\BaiTap\LapTrinhMang\transfer-file -cuoi\transfer-file\Client\obj\Debug\ClientTCP.csproj.GenerateResource.cache
+D:\Recovery\BaiTap\LapTrinhMang\transfer-file -cuoi\transfer-file\Client\obj\Debug\ClientTCP.csproj.CoreCompileInputs.cache
+D:\Recovery\BaiTap\LapTrinhMang\transfer-file -cuoi\transfer-file\Client\obj\Debug\SGSclient.exe
+D:\Recovery\BaiTap\LapTrinhMang\transfer-file -cuoi\transfer-file\Client\obj\Debug\SGSclient.pdb
+E:\S5\LapTrinhMang\BTL\chiasefile\Client\bin\Debug\SGSclient.exe
+E:\S5\LapTrinhMang\BTL\chiasefile\Client\bin\Debug\SGSclient.pdb
+E:\S5\LapTrinhMang\BTL\chiasefile\Client\obj\Debug\ClientTCP.csproj.AssemblyReference.cache
+E:\S5\LapTrinhMang\BTL\chiasefile\Client\obj\Debug\Client.Client.resources
+E:\S5\LapTrinhMang\BTL\chiasefile\Client\obj\Debug\Client.LoginForm.resources
+E:\S5\LapTrinhMang\BTL\chiasefile\Client\obj\Debug\SGSclient.Properties.Resources.resources
+E:\S5\LapTrinhMang\BTL\chiasefile\Client\obj\Debug\ClientTCP.csproj.GenerateResource.cache
+E:\S5\LapTrinhMang\BTL\chiasefile\Client\obj\Debug\ClientTCP.csproj.CoreCompileInputs.cache
+E:\S5\LapTrinhMang\BTL\chiasefile\Client\obj\Debug\SGSclient.exe
+E:\S5\LapTrinhMang\BTL\chiasefile\Client\obj\Debug\SGSclient.pdb
+E:\S5\LapTrinhMang\BTL\19_BaiTapNhom_FullCode\Client\bin\Debug\SGSclient.exe
+E:\S5\LapTrinhMang\BTL\19_BaiTapNhom_FullCode\Client\bin\Debug\SGSclient.pdb
+E:\S5\LapTrinhMang\BTL\19_BaiTapNhom_FullCode\Client\obj\Debug\ClientTCP.csproj.AssemblyReference.cache
+E:\S5\LapTrinhMang\BTL\19_BaiTapNhom_FullCode\Client\obj\Debug\Client.Client.resources
+E:\S5\LapTrinhMang\BTL\19_BaiTapNhom_FullCode\Client\obj\Debug\Client.LoginForm.resources
+E:\S5\LapTrinhMang\BTL\19_BaiTapNhom_FullCode\Client\obj\Debug\SGSclient.Properties.Resources.resources
+E:\S5\LapTrinhMang\BTL\19_BaiTapNhom_FullCode\Client\obj\Debug\ClientTCP.csproj.GenerateResource.cache
+E:\S5\LapTrinhMang\BTL\19_BaiTapNhom_FullCode\Client\obj\Debug\ClientTCP.csproj.CoreCompileInputs.cache
+E:\S5\LapTrinhMang\BTL\19_BaiTapNhom_FullCode\Client\obj\Debug\SGSclient.exe
+E:\S5\LapTrinhMang\BTL\19_BaiTapNhom_FullCode\Client\obj\Debug\SGSclient.pdb
+D:\Recovery\BaiTap\LapTrinhMang\19_BaiTapNhom_FullCode\19_BaiTapNhom_FullCode\Client\bin\Debug\SGSclient.exe
+D:\Recovery\BaiTap\LapTrinhMang\19_BaiTapNhom_FullCode\19_BaiTapNhom_FullCode\Client\bin\Debug\SGSclient.pdb
+D:\Recovery\BaiTap\LapTrinhMang\19_BaiTapNhom_FullCode\19_BaiTapNhom_FullCode\Client\obj\Debug\ClientTCP.csproj.AssemblyReference.cache
+D:\Recovery\BaiTap\LapTrinhMang\19_BaiTapNhom_FullCode\19_BaiTapNhom_FullCode\Client\obj\Debug\Client.Client.resources
+D:\Recovery\BaiTap\LapTrinhMang\19_BaiTapNhom_FullCode\19_BaiTapNhom_FullCode\Client\obj\Debug\Client.LoginForm.resources
+D:\Recovery\BaiTap\LapTrinhMang\19_BaiTapNhom_FullCode\19_BaiTapNhom_FullCode\Client\obj\Debug\SGSclient.Properties.Resources.resources
+D:\Recovery\BaiTap\LapTrinhMang\19_BaiTapNhom_FullCode\19_BaiTapNhom_FullCode\Client\obj\Debug\ClientTCP.csproj.GenerateResource.cache
+D:\Recovery\BaiTap\LapTrinhMang\19_BaiTapNhom_FullCode\19_BaiTapNhom_FullCode\Client\obj\Debug\ClientTCP.csproj.CoreCompileInputs.cache
+D:\Recovery\BaiTap\LapTrinhMang\19_BaiTapNhom_FullCode\19_BaiTapNhom_FullCode\Client\obj\Debug\SGSclient.exe
+D:\Recovery\BaiTap\LapTrinhMang\19_BaiTapNhom_FullCode\19_BaiTapNhom_FullCode\Client\obj\Debug\SGSclient.pdb
